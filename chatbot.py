@@ -1,15 +1,15 @@
+import nltk
+nltk.download("punkt_tab")
+nltk.download("punkt")
+nltk.download("stopwords")
+nltk.download("wordnet")
+
 import string
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
-# Download required NLTK data the first time.
-# If your environment blocks downloads, run these commands in a Python shell once:
-# import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')
-nltk.download('punkt', quiet=True)
-nltk.download('stopwords', quiet=True)
-nltk.download('wordnet', quiet=True)
 
 # Load knowledge base
 with open('got_knowledge_base.txt', 'r', encoding='utf-8') as f:
