@@ -1,23 +1,7 @@
-GAME OF THRONES – MEGA KNOWLEDGE BASE (HYBRID EDITION)
-
-
-House Stark is one of the oldest noble families in Westeros, descended from the First Men and known for their honor, loyalty, and connection to the North. They rule Winterfell, a massive fortress built thousands of years ago. The Starks are known for their solemn words, “Winter Is Coming”, a reminder of the harsh northern climate and impending danger. Members of House Stark play central roles in the political struggles across Westeros, as well as the supernatural conflicts involving the White Walkers.
-
-House Lannister is one of the wealthiest and most influential houses, ruling from Casterly Rock. They are famed for their gold mines, political power, and cunning family members. The Lannisters are known for manipulation, ambition, and ruthless efficiency when threatened. Their unofficial motto, “A Lannister Always Pays His Debts,” reflects their wealth and reputation for vengeance.
-
-House Targaryen is an ancient Valyrian lineage that once ruled the Seven Kingdoms for nearly 300 years. Their history is intertwined with dragons, conquest, and the Iron Throne. Despite being nearly destroyed, the last surviving Targaryens seek to reclaim their former glory. Dragons are central to Targaryen power, symbolizing both their divine right to rule and their destructive potential.
-
-House Baratheon rose to power after Robert Baratheon overthrew the Mad King. The family is known for its strength, boldness, and storm-born temperament. They control Storm’s End, a nearly indestructible fortress built to withstand magical and physical assaults.
-
-House Greyjoy rules the Iron Islands and follows the Old Way, a tradition celebrating reaving, independence, and strength at sea. Their culture values paying the “iron price,” taking what one needs by force rather than trade.
-
-House Tyrell ruled the fertile lands of the Reach from Highgarden, known for diplomacy, wealth, and a vast network of alliances. They provide food to much of Westeros and use political marriages to maintain power.
-
-House Martell rules Dorne, a desert kingdom in the far south known for its independence, unique customs, and fierce warriors. Martells are known for their motto “Unbowed, Unbent, Unbroken,” symbolizing resilience.
-
-
-House Stark’s seat is Winterfell.
-House Stark’s motto is “Winter Is Coming.”
+House Stark is one of the oldest noble houses in Westeros.
+House Stark descends from the First Men.
+Winterfell is the seat of House Stark.
+The Stark family motto is "Winter Is Coming."
 Ned Stark is the father of the Stark children.
 Catelyn Stark is from House Tully.
 Robb Stark becomes King in the North.
@@ -25,32 +9,21 @@ Sansa Stark becomes Queen in the North.
 Arya Stark kills the Night King.
 Bran Stark becomes King of Westeros.
 Jon Snow’s true name is Aegon Targaryen.
+Jon Snow is the son of Lyanna Stark and Rhaegar Targaryen.
 
-House Lannister’s seat is Casterly Rock.
+House Lannister rules from Casterly Rock.
+The Lannisters are one of the wealthiest families in Westeros.
 Cersei Lannister becomes Queen of the Seven Kingdoms.
 Jaime Lannister is called the Kingslayer.
-Tyrion Lannister is Hand of the Queen.
+Tyrion Lannister is known for his intelligence and wit.
 
-House Targaryen’s motto is “Fire and Blood.”
+House Targaryen is an ancient Valyrian family.
+House Targaryen ruled Westeros for nearly 300 years.
+The Targaryen motto is "Fire and Blood."
 Daenerys Targaryen is the Mother of Dragons.
 Viserys Targaryen is Daenerys’ brother.
-Jon Snow is the son of Rhaegar Targaryen and Lyanna Stark.
 
-House Baratheon’s seat is Storm’s End.
-Robert Baratheon is the first king after the Targaryen fall.
-Stannis Baratheon believes he is the rightful king.
-
-House Greyjoy’s seat is Pyke.
-Theon Greyjoy is Balon’s son.
-Yara Greyjoy is Theon’s sister.
-
-House Tyrell’s seat is Highgarden.
-Olenna Tyrell is the matriarch of the family.
-
-House Martell’s seat is Sunspear.
-Oberyn Martell is known as the Red Viper.
-
-Drogon is the largest of Daenerys’ dragons.
+Drogon is the largest of Daenerys' dragons.
 Rhaegal is a green dragon named after Rhaegar Targaryen.
 Viserion is named after Viserys Targaryen.
 Drogon, Rhaegal, and Viserion are Daenerys’ dragons.
@@ -58,59 +31,91 @@ Dragons can breathe fire.
 Dragons can fly.
 Dragons respond to High Valyrian commands.
 
-The Night King is the leader of the White Walkers.
+The Night King leads the White Walkers.
 White Walkers can raise the dead as wights.
 The Night King rides an undead dragon.
 Dragonglass can kill White Walkers.
 Valyrian steel can kill White Walkers.
-The Night King is killed by Arya Stark.
+Arya Stark kills the Night King.
 
-Valyrian steel is a rare metal forged with magic.
+Valyrian steel is a rare magical metal.
 Longclaw is Jon Snow’s Valyrian steel sword.
-Oathkeeper is a Valyrian steel sword given to Brienne.
-The Iron Throne is made from a thousand swords.
+Oathkeeper is a Valyrian steel sword.
 Dragonglass is found on Dragonstone.
 
-Winterfell is the seat of House Stark.
 King’s Landing is the capital of the Seven Kingdoms.
 Dragonstone is the ancestral home of House Targaryen.
-The Wall protects the realms of men from the North.
+The Wall protects the realms of men.
 The Eyrie is the seat of House Arryn.
-Meereen is one of the Slaver’s Bay cities Daenerys conquers.
-Dorne is located in the far south of Westeros.
+Highgarden is the seat of House Tyrell.
+Pyke is the seat of House Greyjoy.
+Sunspear is the seat of House Martell.
 
 The Red Wedding results in the deaths of Robb and Catelyn Stark.
-The Battle of Blackwater is fought between Stannis and King’s Landing forces.
 The Battle of the Bastards restores Winterfell to the Starks.
-The Wall is destroyed by the Night King.
+The Battle of Blackwater is fought between Stannis and King’s Landing forces.
 The Battle of Winterfell ends the White Walker threat.
-Daenerys destroys King’s Landing with Drogon.
+The Wall is destroyed by the Night King.
 
-The Prince That Was Promised is a legendary hero.
-Bran Stark has visions as the Three-Eyed Raven.
-Melisandre serves the Lord of Light.
-Wargs can control animals through their minds.
-
-Ned Stark becomes Hand of the King in Season 1.
-Joffrey Baratheon dies in Season 4.
-Jon Snow is killed and resurrected in Seasons 5 and 6.
-Daenerys conquers Meereen in Season 4.
-Cersei destroys the Sept of Baelor in Season 6.
-The Night King breaks through the Wall in Season 7.
-Daenerys dies in Season 8.
-Bran becomes king in Season 8.
-
-Jon Snow is the son of Lyanna Stark and Rhaegar Targaryen.
-Daenerys Targaryen is the Mother of Dragons.
-Jaime Lannister is a knight and the Kingslayer.
-Brienne of Tarth is a knight who protects the Stark girls.
-Sandor Clegane is called the Hound.
-Joffrey Baratheon is a cruel king.
-Theon Greyjoy is a prince of the Iron Islands.
-Sansa Stark becomes Queen in the North.
-Tyrion Lannister is known for his intelligence and wit.
-Drogon, Rhaegal, and Viserion are the dragons.
-Valyrian steel kills White Walkers.
-Arya Stark kills the Night King.
 Bran the Builder built the Wall.
-The Iron Throne symbolizes rule over the Seven Kingdoms.
+Melisandre serves the Lord of Light.
+Wargs can control animals with their minds.
+Bran Stark is the Three-Eyed Raven.
+
+
+Q: Who kills the Night King?
+A: Arya Stark kills the Night King.
+
+Q: What is House Stark's motto?
+A: House Stark's motto is "Winter Is Coming."
+
+Q: Who are Daenerys' dragons?
+A: Daenerys' dragons are Drogon, Rhaegal, and Viserion.
+
+Q: What is Jon Snow's real name?
+A: Jon Snow's real name is Aegon Targaryen.
+
+Q: Who is Jon Snow's father?
+A: Jon Snow's father is Rhaegar Targaryen.
+
+Q: Who is Jon Snow's mother?
+A: Jon Snow's mother is Lyanna Stark.
+
+Q: Where is House Stark located?
+A: House Stark is located at Winterfell.
+
+Q: What is House Targaryen's motto?
+A: House Targaryen's motto is "Fire and Blood."
+
+Q: What material kills White Walkers?
+A: Dragonglass and Valyrian steel kill White Walkers.
+
+Q: Who is the Mother of Dragons?
+A: Daenerys Targaryen is the Mother of Dragons.
+
+Q: Why is Jaime Lannister called the Kingslayer?
+A: Jaime Lannister is called the Kingslayer because he killed the Mad King.
+
+Q: Who becomes King of Westeros at the end?
+A: Bran Stark becomes King of Westeros.
+
+Q: Who becomes Queen in the North?
+A: Sansa Stark becomes Queen in the North.
+
+Q: What is the seat of House Lannister?
+A: The seat of House Lannister is Casterly Rock.
+
+Q: What is the Iron Throne?
+A: The Iron Throne symbolizes rule over the Seven Kingdoms.
+
+Keywords: Night King, killed, Arya Stark.
+Keywords: Jon Snow, Aegon Targaryen, true name.
+Keywords: Daenerys, dragons, Drogon, Rhaegal, Viserion.
+Keywords: White Walkers, killed by, dragonglass, Valyrian steel.
+Keywords: Stark motto, Winter Is Coming.
+Keywords: Targaryen motto, Fire and Blood.
+Keywords: Jaime Lannister, Kingslayer.
+Keywords: Bran Stark, King of Westeros.
+Keywords: Sansa Stark, Queen in the North.
+Keywords: Casterly Rock, Lannister seat.
+
